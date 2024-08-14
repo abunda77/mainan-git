@@ -2,6 +2,6 @@ Halaman Readme yang baru
 
 ---
 
-Berjuang
+Berjuang kembali ke jalan raya
 
 ---
