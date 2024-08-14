@@ -10,3 +10,5 @@ Memo : Ini memo dari branch Main. Harap diperhatikan
 Memo : Ini tambahan dari branch readme
 
 Ini saya ada tambahan dari branch readme
+
+Tambahan lagi dari branch readme
